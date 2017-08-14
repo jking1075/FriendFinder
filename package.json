@@ -1,0 +1,23 @@
+{
+  "name": "ls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "'",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jking1075/FriendFinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jking1075/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/jking1075/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
